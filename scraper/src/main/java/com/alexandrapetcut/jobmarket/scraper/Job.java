@@ -6,5 +6,8 @@ public class Job {
     public String location;
     public String url;
     public String salary;
-    public String jobType;
+
+    public String source;
+    public String externalId;
+
 }
